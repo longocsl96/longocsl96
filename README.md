@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ngoc Lo</h1>
 <h3 align="center">A Full Stack Developer From Viet Nam</h3>
 
-- 👨‍💻 All of my projects are available at [https://longoc96-2023.online/](https://longoc96-2023.online/)
-
-- 📝 I regularly write articles on [https://longoc96-2023.online/](https://longoc96-2023.online/)
-
-- 📫 How to reach me **longoc.sl96@gmail.com**
-
 - 📄 Know about my experiences [https://longoc96-2023.online/](https://longoc96-2023.online/)
 
 <h3 align="left">Connect with me:</h3>
